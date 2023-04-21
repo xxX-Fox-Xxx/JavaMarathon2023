@@ -6,7 +6,7 @@ public class Taks1 {
 
         int r=0;
         while(r<10){
-            System.out.print("JAVA ");
+            System.out.print("JAV_A ");
             r++;
 
         }
