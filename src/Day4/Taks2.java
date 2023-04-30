@@ -19,7 +19,7 @@ public class Taks2 {
         }
         System.out.println(max);
 
-        int min = 10000;
+        int min = 1000;
         for(int array : arrays){
             if(array < min)
                 min = array;
